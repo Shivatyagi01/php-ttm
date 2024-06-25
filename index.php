@@ -68,11 +68,45 @@
                 </div>
             </div>
         </section>
-        <section class="product-section py-5">
+        <section class="product-section py-16">
             <div class="container-fluid mx-auto">
-                <div class="title flex justify-between items-center">
+                <div class="title flex justify-between items-center mb-10">
                     <h2>Things we bake</h2>
                     <a class="button-1 bg-black rounded-lg" href="#">View All Product</a>
+                </div>
+                <div class="grid grid-cols-4 gap-5 items-center">
+                    <a href="#">
+                        <div class="items-product">
+                            <div class="item-img rounded-2xl overflow-hidden">
+                                <img src="./assets/img/service-3.webp" alt="">
+                            </div>
+                            <h3>Flavored brownie</h3>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="items-product">
+                            <div class="item-img rounded-2xl overflow-hidden">
+                                <img src="./assets/img/service-2.webp" alt="">
+                            </div>
+                            <h3>Delicate brioche</h3>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="items-product">
+                            <div class="item-img rounded-2xl overflow-hidden">
+                                <img src="./assets/img/service-1.webp" alt="">
+                            </div>
+                            <h3>Soft croissants</h3>
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="items-product">
+                            <div class="item-img rounded-2xl overflow-hidden">
+                                <img src="./assets/img/service-4.webp" alt="">
+                            </div>
+                            <h3>Sweet baguette</h3>
+                        </div>
+                    </a>
                 </div>
             </div>
         </section>
